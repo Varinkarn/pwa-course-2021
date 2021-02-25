@@ -30,7 +30,7 @@ function App() {
       <div className="App-header">
       <div className="App-chatroom2">
 
-          GI472 Varinkarn Kumtanasan- Pheeraphat Chocokviriyapanya
+          GI472 Varinkarn Kumtanasan
 
         </div>
       </div>
@@ -53,5 +53,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
